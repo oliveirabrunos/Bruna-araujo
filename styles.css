@@ -1,0 +1,36 @@
+body {
+    color: rgb(255, 255, 255);
+    background: rgb(3, 3, 3);
+    margin: 0px;
+}
+header {
+    border-bottom: solid 2px rgb(235, 17, 13);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(249, 28, 7);
+}
+           
+/* código omitido */
+
+section {
+    background: rgb(8, 8, 8);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}element.style {
+    padding-bottom: 80px;
+}
+section {
+    background: rgb(123, 0, 255);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    div {
+        margin-right: 20px;
+    }
